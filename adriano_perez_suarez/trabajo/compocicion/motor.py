@@ -3,7 +3,7 @@ class Motor:
         self.potencia = potencia
         self.encendido = False
 
-# esto es para encender el carro
+
     def encender(self):
         self.encendido = True
 
